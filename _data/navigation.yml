@@ -1,6 +1,31 @@
 header:
   - titles:
       # @start locale config
+      en: &EN       Article
+      en-GB: *EN
+      en-US: *EN
+      en-CA: *EN
+      en-AU: *EN
+      zh-Hans: &ZH_HANS  文章
+      zh: *ZH_HANS
+      zh-CN: *ZH_HANS
+      zh-SG: *ZH_HANS
+      zh-Hant: &ZH_HANT  文章
+      zh-TW: *ZH_HANT
+      zh-HK: *ZH_HANT
+      ko: &KO       Article
+      ko-KR: *KO
+      fr: &FR       Article
+      fr-BE: *FR
+      fr-CA: *FR
+      fr-CH: *FR
+      fr-FR: *FR
+      fr-LU: *FR
+      # @end locale config
+    url: /article.html
+
+  - titles:
+      # @start locale config
       en      : &EN       Archive
       en-GB   : *EN
       en-US   : *EN
@@ -75,4 +100,4 @@ header:
       fr-LU: *FR
       tr: &TR       Github
       # @end locale config
-      url: "https://github.com/workbunny"
+    url: "https://github.com/workbunny"
