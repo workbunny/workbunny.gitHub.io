@@ -35,7 +35,7 @@ timezone: Asia/Shanghai # see https://en.wikipedia.org/wiki/List_of_tz_database_
 author:
   type      : "person" # "person" (default), "organization"
   name      : "chaz6chez"
-  url       :
+  url       : https://www.chaz6chez.cn
   avatar    : /images/avatar.jpg # path or url of avatar image (square)
   bio       : "Dear Nuomi, I Set Your Soul Free. "
   email     : "250220719@qq.com"
