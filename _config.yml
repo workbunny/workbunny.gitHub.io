@@ -35,7 +35,7 @@ timezone: Asia/Shanghai # see https://en.wikipedia.org/wiki/List_of_tz_database_
 author:
   type      : "person" # "person" (default), "organization"
   name      : "chaz6chez"
-  url       : https://www.chaz6chez.cn
+  url       : "https://www.chaz6chez.cn"
   avatar    : /images/avatar.jpg # path or url of avatar image (square)
   bio       : "Dear Nuomi, I Set Your Soul Free. "
   email     : "250220719@qq.com"
@@ -45,10 +45,10 @@ author:
   googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
   telegram  : # "user_name" the last part of your profile url, e.g. https://t.me/user_name
   medium    : # "user_name" the last part of your profile url, e.g. https://medium.com/user_name
-  zhihu     : https://www.zhihu.com/people/chaz6chez # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
+  zhihu     : chaz6chez # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
   douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
   linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
-  github    : https://github.com/workbunny # "user_name" the last part of your profile url, e.g. https://github.com/user_name
+  github    : chaz6chez # "user_name" the last part of your profile url, e.g. https://github.com/user_name
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
 
 
@@ -62,7 +62,7 @@ repository_tree: master
 ##############################
 paths:
   root    : # title link url, "/" (default)
-  home    : # home layout url, "/" (default)
+  home    : "/index.html" # home layout url, "/" (default)
   archive : # "/archive.html" (default)
   rss     : # "/feed.xml" (default)
 

@@ -75,4 +75,4 @@ header:
       fr-LU: *FR
       tr: &TR       Github
       # @end locale config
-      url: https://github.com/workbunny
+      url: "https://github.com/workbunny"
